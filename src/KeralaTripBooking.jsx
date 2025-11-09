@@ -23,7 +23,7 @@ export default function KeralaTripBooking() {
       return;
     }
 
-    const message = `Kerala Train Booking Request
+    const message = `Kerala Train Booking Details:
 
 First Name: ${firstName}
 Last Name: ${lastName}
